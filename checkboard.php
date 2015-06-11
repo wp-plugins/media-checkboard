@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Media Checkboard 
-Version: 1.0.2
+Version: 1.0.3
 Description: Simple backend plugin that renders a checkerboard under PNG and GIF images so you can see alpha channel
 Author: Diego Betto
 Author URI: http://diegobetto.com

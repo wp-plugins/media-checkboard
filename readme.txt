@@ -4,7 +4,7 @@ Tags: checkboard, transparence, png, gif, media, images
 Requires at least: 3.9
 Tested up to: 4.2.2
 License: GNU GPL 3.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 Simple backend plugin that renders a checkerboard under PNG and GIF images so you can see alpha channel
 
 == Description ==
@@ -21,5 +21,12 @@ Simple plugin that renders a checkerboard under PNG and GIF images so you can se
 1. Checkerboard background for a PNG file
 
 == Changelog ==
+
+1.0.3
+Added banner and icon
+
+1.0.2
+Added screenshot, corrected name
+
 1.0
 First commit
