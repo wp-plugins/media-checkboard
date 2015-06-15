@@ -1,10 +1,10 @@
-=== Media Checkboard  ===
+=== Media Checkerboard  ===
 Contributors: agm65
-Tags: checkboard, transparence, png, gif, media, images
+Tags: checkerboard, transparency, png, gif, media, images, alpha, channel
 Requires at least: 3.9
 Tested up to: 4.2.2
 License: GNU GPL 3.0
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 Simple backend plugin that renders a checkerboard under PNG and GIF images so you can see alpha channel
 
 == Description ==
@@ -21,6 +21,9 @@ Simple plugin that renders a checkerboard under PNG and GIF images so you can se
 1. Checkerboard background for a PNG file
 
 == Changelog ==
+
+1.0.4
+Typos and name
 
 1.0.3
 Added banner and icon
